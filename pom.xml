@@ -11,6 +11,8 @@
 	<groupId>com.tomcat</groupId>
 	<artifactId>tomcat-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
+	
 	<name>tomcat-test</name>
 	<description>test for jenkins</description>
 	<properties>
