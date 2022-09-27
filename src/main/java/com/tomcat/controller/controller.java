@@ -8,7 +8,7 @@ public class controller {
 		
 		@GetMapping("/")
 		public String hello() {
-			return "Tomcat server Working  Very Fine ";
+			return "Tomcat server Working Fine ";
 		}
 
 }
